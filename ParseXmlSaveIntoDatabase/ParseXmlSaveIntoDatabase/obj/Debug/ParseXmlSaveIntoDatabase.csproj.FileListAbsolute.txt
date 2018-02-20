@@ -1,0 +1,10 @@
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\bin\Debug\ParseXmlSaveIntoDatabase.exe.config
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\bin\Debug\ParseXmlSaveIntoDatabase.exe
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\bin\Debug\ParseXmlSaveIntoDatabase.pdb
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\obj\Debug\ParseXmlSaveIntoDatabase.exe
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\obj\Debug\ParseXmlSaveIntoDatabase.pdb
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umar\Downloads\XmlDataSaveIntoDatabase\ParseXmlSaveIntoDatabase\ParseXmlSaveIntoDatabase\obj\Debug\ParseXmlSaveIntoDatabase.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Crud_DatabaseModelStoreContainer" CdmEntityContainer="Crud_DatabaseEntities">
+    <EntitySetMapping Name="XmlParsings">
+      <EntityTypeMapping TypeName="Crud_DatabaseModel.XmlParsing">
+        <MappingFragment StoreEntitySet="XmlParsing">
+          <ScalarProperty Name="xml_id" ColumnName="xml_id" />
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

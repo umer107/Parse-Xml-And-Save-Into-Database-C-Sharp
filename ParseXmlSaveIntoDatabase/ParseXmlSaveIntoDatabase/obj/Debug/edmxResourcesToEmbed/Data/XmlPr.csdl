@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Crud_DatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="XmlParsing">
+    <Key>
+      <PropertyRef Name="xml_id" />
+    </Key>
+    <Property Name="xml_id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmpId" Type="Int64" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Sex" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="Crud_DatabaseEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="XmlParsings" EntityType="Self.XmlParsing" />
+  </EntityContainer>
+</Schema>
